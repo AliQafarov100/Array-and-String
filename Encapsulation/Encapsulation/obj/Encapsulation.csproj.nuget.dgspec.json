@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\M S I\\source\\repos\\Sentence\\Sentence\\Sentence.csproj": {}
+    "C:\\Users\\M S I\\source\\repos\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\M S I\\source\\repos\\Sentence\\Sentence\\Sentence.csproj": {
+    "C:\\Users\\M S I\\source\\repos\\Encapsulation\\Encapsulation\\Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\M S I\\source\\repos\\Sentence\\Sentence\\Sentence.csproj",
-        "projectName": "Sentence",
-        "projectPath": "C:\\Users\\M S I\\source\\repos\\Sentence\\Sentence\\Sentence.csproj",
+        "projectUniqueName": "C:\\Users\\M S I\\source\\repos\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+        "projectName": "Encapsulation",
+        "projectPath": "C:\\Users\\M S I\\source\\repos\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
         "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\M S I\\source\\repos\\Sentence\\Sentence\\obj\\",
+        "outputPath": "C:\\Users\\M S I\\source\\repos\\Encapsulation\\Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M S I\\AppData\\Roaming\\NuGet\\NuGet.Config",
